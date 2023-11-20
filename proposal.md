@@ -1,6 +1,6 @@
 # Project Description
 
-My project will be about.....
+My project will be a clone of "The Worlds Hardest Game" on cool math games.
 
 ## Needs to have list
 -
