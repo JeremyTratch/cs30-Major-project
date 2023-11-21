@@ -1,9 +1,10 @@
-// Project Title
+// Worlds Second Hardest Game
 // Jeremy Tratch
 // Date
 //
 // Extra for Experts:
 // - describe what you did to take this project "above and beyond"
+
 
 
 function setup() {
