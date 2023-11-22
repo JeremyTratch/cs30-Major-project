@@ -1,6 +1,6 @@
 # Project Description
 
-My project will be a clone of "The Worlds Hardest Game" on cool math games.
+My project will be a clone of "The Worlds Hardest Game" on cool math games. Ive played this game as a kid and thought it would be cool if I re-make it with a little twist. 
 
 ## Needs to have list
 -   Grid based map
