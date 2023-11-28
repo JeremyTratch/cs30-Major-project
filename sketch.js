@@ -22,3 +22,8 @@ function draw() {
   background(220);
   
 }
+
+function moveCube() {
+  if (keyIsDown === "87" )
+
+}
