@@ -6,11 +6,13 @@
 // - describe what you did to take this project "above and beyond"
 
 class Walls {
-  constructor(x, y){
+  constructor(x, y, dx, dy){
     this.x = x;
     this.y = y;
-    
+    this.dx = dx;
+    this.dy = dy;
   }
+
 }
 
 function setup() {
