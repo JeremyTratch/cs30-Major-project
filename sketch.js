@@ -9,8 +9,8 @@ class Walls {
   constructor(x, y, dx, dy){
     this.x = x;
     this.y = y;
-    this.dx = dx;
-    this.dy = dy;
+    this.dx = 5;
+    this.dy = 5;
   }
 
 }
@@ -26,6 +26,19 @@ function draw() {
 }
 
 function moveCube() {
-  if (keyIsDown === "87" )
+  if (keyIsDown === "w") {
+    this.x -= this.dx;
+  }
 
+  if (keyIsDown === "s") {
+    this.x += this.dx;
+  }  
+
+  if (keyIsDown === "a") {
+    this.y -= this.dy;
+  }  
+
+  if (keyIsDown === "w") {
+    this.y += this.dy;
+  }
 }
